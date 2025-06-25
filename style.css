@@ -1,0 +1,30 @@
+body {
+    background-color: azure;
+}
+.header {
+    background-color: beige;
+    flex-direction: column;
+    text-align:center ;
+}
+.con {
+    background-color: antiquewhite;
+    display:flex ;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: center;
+}
+.con-2 {
+    background-color: bisque;
+    flex-direction: column;
+    text-align:center;
+} 
+.con-3 {
+    background-color: antiquewhite;
+    flex-direction: column;
+    text-align: center;
+}
+.con-4 {
+    background-color: blanchedalmond;
+    flex-direction: column;
+    text-align: center;
+}
